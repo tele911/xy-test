@@ -236,7 +236,7 @@ function create_config( )
     "plugins"
     },
     sudo_users = {162912595,112693322,160430463}--Sudo users
-    disabled_channels = {},
+    disabled_channels = {Tg_911_ch},
     moderation = {data = 'data/moderation.json'},
     about_text = [[W_SaTaN_W V 1
     Advanced Bot Base On Seed
